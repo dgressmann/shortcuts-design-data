@@ -13,7 +13,6 @@
 </h1>
 
 
-
 ![Shortcuts.design V2.0](shortcuts-design-social.jpg)
 
 ## Introduction
